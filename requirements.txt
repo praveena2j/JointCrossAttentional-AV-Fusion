@@ -1,0 +1,90 @@
+absl-py==0.9.0
+appdirs==1.4.4
+audioread @ file:///home/conda/feedstock_root/build_artifacts/audioread_1607457400452/work
+brotlipy==0.7.0
+cachetools==4.0.0
+certifi==2021.10.8
+cffi @ file:///opt/conda/conda-bld/cffi_1642701102775/work
+chardet==3.0.4
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click==8.0.3
+configparser==5.2.0
+cryptography @ file:///tmp/build/80754af9/cryptography_1639414570729/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+docker-pycreds==0.4.0
+fonttools==4.25.0
+future==0.18.2
+gitdb==4.0.9
+GitPython==3.1.26
+google-auth==1.11.2
+google-auth-oauthlib==0.4.1
+grpcio==1.27.2
+idna @ file:///tmp/build/80754af9/idna_1637925883363/work
+importlib-metadata==4.10.1
+joblib @ file:///tmp/build/80754af9/joblib_1635411271373/work
+jsonpatch==1.25
+jsonpointer==2.0
+kiwisolver @ file:///opt/conda/conda-bld/kiwisolver_1638569886207/work
+librosa @ file:///home/conda/feedstock_root/build_artifacts/librosa_1622025601369/work
+llvmlite==0.37.0
+Markdown==3.2.1
+matplotlib==3.5.1
+mkl-fft==1.3.0
+mkl-random==1.1.0
+mkl-service==2.3.0
+munkres==1.1.4
+numba @ file:///tmp/build/80754af9/numba_1635185929515/work
+numpy==1.18.1
+oauthlib==3.1.0
+olefile==0.46
+opencv-python==4.2.0.32
+packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
+pandas==1.3.5
+pathtools==0.1.2
+Pillow==8.4.0
+pooch @ file:///tmp/build/80754af9/pooch_1623324770023/work
+promise==2.3
+protobuf==3.19.4
+psutil==5.9.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
+pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
+PySocks @ file:///tmp/build/80754af9/pysocks_1594394576006/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2021.3
+PyYAML==5.2
+pyzmq==18.1.1
+requests @ file:///opt/conda/conda-bld/requests_1641824580448/work
+requests-oauthlib==1.3.0
+resampy==0.2.2
+rsa==4.0
+scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1642601761909/work
+scipy @ file:///tmp/build/80754af9/scipy_1616700973326/work
+sentry-sdk==1.5.4
+shortuuid==1.0.8
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sklearn==0.0
+smmap==5.0.0
+SoundFile @ file:///home/conda/feedstock_root/build_artifacts/pysoundfile_1607011569782/work
+subprocess32==3.5.4
+tensorboard==2.1.0
+termcolor==1.1.0
+threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
+torch==1.10.2
+torchaudio==0.10.2
+torchfile==0.1.0
+torchsummary==1.5.1
+torchvision==0.3.0
+tornado @ file:///tmp/build/80754af9/tornado_1606942283357/work
+tqdm==4.62.3
+typing_extensions==4.0.1
+urllib3 @ file:///opt/conda/conda-bld/urllib3_1643638302206/work
+visdom==0.1.8.9
+wandb==0.12.9
+websocket-client==0.57.0
+Werkzeug==1.0.0
+yaspin==2.1.0
+zipp==3.7.0
