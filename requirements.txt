@@ -83,7 +83,6 @@ tqdm==4.62.3
 typing_extensions==4.0.1
 urllib3 @ file:///opt/conda/conda-bld/urllib3_1643638302206/work
 visdom==0.1.8.9
-wandb==0.12.9
 websocket-client==0.57.0
 Werkzeug==1.0.0
 yaspin==2.1.0
