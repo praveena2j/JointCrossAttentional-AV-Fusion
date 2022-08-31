@@ -1,4 +1,4 @@
 # JointCrossAttentional-AV-Fusion
-Joint Cross Attentional AudioVisual (AV) Fusion Model
+Audio-Visual Fusion for Dimensional Emotion Recognition Using Joint Cross-Attention
 
 
