@@ -89,7 +89,7 @@ class CAM(nn.Module):
             ### apply same dimensions
             #att_audio_features = self.tanh(atten_audiofeatures)
             #att_visual_features = self.tanh(atten_visualfeatures)
-            audiovisualfeatures = torch.cat((visfts, att_visual_features), 1)
+            audiovisualfeatures = torch.cat((att_audio_features, att_visual_features), 1)
             outs = self.regressor(audiovisualfeatures) #.transpose(0,1))
             #seq_outs, _ = torch.max(outs,0)
             #print(seq_outs)
