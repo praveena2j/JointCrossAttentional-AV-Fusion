@@ -1,4 +1,5 @@
 # JointCrossAttention for AV-Fusion
-Audio-Visual Fusion for Dimensional Emotion Recognition Using Joint Cross-Attention
+Code for our paper "A Joint Cross-Attention Model for Audio-Visual Fusion in Dimensional
+Emotion Recognition" submitted to ABAW3 challenge conducted with CVPR 2022.
 
 
