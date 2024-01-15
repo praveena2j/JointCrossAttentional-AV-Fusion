@@ -7,10 +7,10 @@ If you find this code useful for your research, please cite our paper.
 
 ```
 @INPROCEEDINGS{10095234,
-  author={Praveen, R Gnana and Granger, Eric and Cardinal, Patrick},
-  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
-  title={Recursive Joint Attention for Audio-Visual Fusion in Regression Based Emotion Recognition}, 
-  year={2023},
+  author={Praveen, R Gnana and de Melo, Wheidima Carneiro and Ullah, Nasib and Aslam, Haseeb and Zeeshan, Osama and Denorme, Théo and Pedersoli, Marco and Koerich, Alessandro L. and Bacon, Simon and Cardinal, Patrick and Granger, Eric},
+  booktitle={2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)}, 
+  title={A Joint Cross-Attention Model for Audio-Visual Fusion in Dimensional Emotion Recognition}, 
+  year={2022},
 }
 ```
 
